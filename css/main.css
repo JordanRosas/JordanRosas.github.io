@@ -1593,7 +1593,7 @@ header .logo a {
 }
 @media only screen and (max-width:600px) {
 	.intro-info {
-		text-align: center;
+		text-align: left;
 		margin-top: 3rem;
 	}
 	.intro-info img {
