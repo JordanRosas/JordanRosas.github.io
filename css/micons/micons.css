@@ -122,6 +122,7 @@
 }
 .icon-chat:before {
     content: "\e920";
+    color:white;
 }
 .icon-circle-bottom-left:before {
     content: "\e921";
@@ -173,6 +174,7 @@
 }
 .icon-cup:before {
     content: "\e931";
+    color:white;
 }
 .icon-cursor:before {
     content: "\e932";
@@ -197,6 +199,8 @@
 }
 .icon-earth:before {
     content: "\e939";
+	color: white;
+
 }
 .icon-edit:before {
     content: "\e93a";
@@ -344,6 +348,7 @@
 }
 .icon-light-bulb:before {
     content: "\e96a";
+    color:white;
 }
 .icon-link:before {
     content: "\e96b";
@@ -704,6 +709,8 @@
 }
 .icon-window:before {
     content: "\e9e2";
+	color: white;
+
 }
 .icon-wrench:before {
     content: "\e9e3";
