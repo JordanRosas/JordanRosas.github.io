@@ -37,6 +37,7 @@ html {
 }
 #footer-links{
 	text-align:center;
+	text-decoration:none;
 }
 /* .lastTableItem{
 	height:-500px;
