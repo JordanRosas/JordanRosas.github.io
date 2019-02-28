@@ -1,2 +1,0 @@
-# Jordan Rosas Developement 
-
